@@ -1,0 +1,3 @@
+The Triangle
+POJ 1163
+http://poj.org/problem?id=1163
